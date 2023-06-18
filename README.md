@@ -84,6 +84,7 @@ Indonesia's agriculture sector is vital, yet food accessibility and security rem
 *Keywords*: Food security, Agriculture, Food Technology & Processing, Agricultural productivity, Distribution systems & Supply Chain, Food quality and safety, Large-scale agricultural development, Food estate program, Distribution networks, Food waste, farm-to-table.
 
 * [BotaniScan](https://github.com/caricadeffa/ML_BotaniScan_C23-PS159) by: C23-PS159
+* [Farm Genius](https://github.com/Capstone-C23-PS094) by: C23-PS094
 * [Fruisca](https://github.com/SvZero/Fruisca) by: C23-PR549
 * [Tanaya](https://github.com/Tanaya-id) by: C23-PC732
 * 
