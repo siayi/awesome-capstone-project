@@ -34,6 +34,7 @@ Digital Government Transformation is a priority for the Indonesian government, a
 Enhancing literacy, numeracy, character building, inclusivity, diversity, and women and child empowerment can boost Indonesia's education system, addressing low PISA rankings. A comprehensive education is crucial for a brighter future. Technology integration is vital too, but teachers remain essential. Students' projects should aim to develop innovative, inclusive learning tools benefiting all stakeholders, including students, teachers, parents, and children with special needs.
 
 *Keywords*: Literacy & Numeracy skills, Character Building/Human Development, Inclusivity & Diversity, Women & Child Empowerment, PISA Score.
+* [MBTI EDU](https://github.com/mbti-edu) by: C23-PS211
 * [Reach You](https://github.com/Navelia/C23PS039-Product-Based-Capstone) by: C23-PS039 
 * [Tutor Deck](https://github.com/AchmadZahrulAZ/C23-PS148-Capstone-Project) by: C23-PS148
 * 
