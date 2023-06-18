@@ -55,6 +55,7 @@ Human healthcare and well-being are vital for a healthy and happy life. It encom
 * [CalorieSense](https://github.com/DwiBagiaSantosa/C23-PS117) by: C23-PS117
 * [FashionSwap](https://github.com/wikananda/Bangkit-Project-C23-PC698) by: C23-PC698
 * [Healcy](https://github.com/C23-PS475/C23-PS475) by: C23-PS475
+* [MooD](https://github.com/M136DSX2331/MooD) by: C23-PC783
 * [Peri Gigi](https://github.com/Nusantara-Team-bangkit-Capstone) by: C23-PS304
 * 
 ## 6. Sustainable Living
