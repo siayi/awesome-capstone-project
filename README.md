@@ -23,7 +23,7 @@ After COVID-19 and conflicts, preparing for emergencies like disasters and disea
 
 *Keywords*: Digital Service for Emergency, Disaster Mitigation, Post-Pandemic Recovery, Minimizing War Impact, Refugees Management System, Communication System Management.
 
-* 
+* [X-Detect ](https://github.com/X-Detect) by: C23-PC603
 ## 2. Digital Government Transformation
 Digital Government Transformation is a priority for the Indonesian government, aiming to improve public services through technology. However, there are areas where the government lags behind neighboring countries. Data-driven decision-making, cybersecurity, and interconnectivity are key focus areas. Students can contribute by developing projects that enable real-time information access, facilitate interagency collaboration, and support regional development. The ultimate goal is to create an interconnected government that serves citizens effectively and efficiently.
 
