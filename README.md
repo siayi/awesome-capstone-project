@@ -113,6 +113,7 @@ SMEs are vital to Indonesia's economy, contributing 61% to GDP and employing 97%
 *Keywords*: Small and Medium Enterprises (SMEs), UMKM, Indonesia's economy, workforce, economic growth, new jobs, innovation, local communities, financing programs, business associations, access to financing and markets, microfinance fund, market access, e-commerce platforms, resilience, National Economic Recovery Program (PEN).
 
 * [Bengkelin](https://github.com/mchridwan04/C23-PS474) by: C23-PS474
+* [Kawan Usaha](https://github.com/Kawan-Usaha) by: C23-PS351
 * [Obeng](https://github.com/nabhanyuzqi1/Bangkit-Capstone-C23-PS321) by: C23-PS321
 * [PemasoKIta](https://github.com/kalam-md/pemasokita) by: C23-PS018
 * [Wismata](https://github.com/Dikarahmanm/Wismata-C23-PS297) by: C23-PS297
