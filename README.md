@@ -86,6 +86,7 @@ Indonesia's agriculture sector is vital, yet food accessibility and security rem
 * [BotaniScan](https://github.com/caricadeffa/ML_BotaniScan_C23-PS159) by: C23-PS159
 * [Farm Genius](https://github.com/Capstone-C23-PS094) by: C23-PS094
 * [Fruisca](https://github.com/SvZero/Fruisca) by: C23-PR549
+* [NutriPal](https://github.com/Nutripal-Capstone) by: C23-PS243
 * [Tanaya](https://github.com/Tanaya-id) by: C23-PC732
 * 
 ## 10. Emerging Intelligence Technologies and ethics
