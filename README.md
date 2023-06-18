@@ -1,8 +1,8 @@
 # Awesome Capstone Project | Bangkit 2023 
 
-Here is presented a list Capstone Project (Github Repositori) at  Bangkit Academy 2023. This list was created on a personal initiative based on independent search of information from various sources. This is not an official list of Bangkit Academy.
+Here is presented a list Capstone Project (Github Repositories) at  Bangkit Academy 2023. This list was created on a personal initiative based on independent search of information from various sources. This is not an official list of Bangkit Academy.
 
-I'm trying to group each project link in the default theme group in Bangkit 2023. This grouping can be sloppy/incorrect. Apart from grouping, other information presented may be wrong. So, please feel free to submit an issue if you find such an incorrect information.
+I'm trying to group each project link in the default theme group in Bangkit 2023. This grouping can be sloppy/incorrect. Apart from grouping, other information presented may be wrong. So, please feel free to [submit issues](https://github.com/siayi/awesome-capstone-project/issues/new) if you find such an incorrect information, , want to add data, or anything else related to this list Awesome Capstone Project.
 
 - [Awesome Capstone Project | Bangkit 2023](#awesome-capstone-project--bangkit-2023)
   - [1. Post-Pandemic \& Emergency Responses](#1-post-pandemic--emergency-responses)
@@ -50,7 +50,7 @@ Human healthcare and well-being are vital for a healthy and happy life. It encom
 *Keywords*: Healthcare, Fitness, Mental Health, Animal & Plants care, Vaccinations & Immunity.
 
 * [AcneFy](https://github.com/ferdyferiandi17/C23-PS079-Repositoryy) by: C23-PS079
-* [AlloPet '](https://github.com/antoniw21/halopet-md) by: C23-PR490
+* [AlloPet](https://github.com/antoniw21/halopet-md) by: C23-PR490
 * [CalorieSense](https://github.com/DwiBagiaSantosa/C23-PS117) by: C23-PS117
 * [Healcy](https://github.com/C23-PS475/C23-PS475) by: C23-PS475
 * [Peri Gigi](https://github.com/Nusantara-Team-bangkit-Capstone) by: C23-PS304
