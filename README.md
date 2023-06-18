@@ -29,7 +29,7 @@ Digital Government Transformation is a priority for the Indonesian government, a
 
 *Keywords*: Data Mining & Machine Learning for Policymakers, Citizenship, Big Data, Cyber Security, Election System, Regional Development, Interconected Government.
 
-*
+* [Suara Kita](https://github.com/C23-PS001) by: C23-PS001
 ## 3. Education, Learning, and Personal Development
 Enhancing literacy, numeracy, character building, inclusivity, diversity, and women and child empowerment can boost Indonesia's education system, addressing low PISA rankings. A comprehensive education is crucial for a brighter future. Technology integration is vital too, but teachers remain essential. Students' projects should aim to develop innovative, inclusive learning tools benefiting all stakeholders, including students, teachers, parents, and children with special needs.
 
@@ -85,6 +85,7 @@ Indonesia's agriculture sector is vital, yet food accessibility and security rem
 
 * [BotaniScan](https://github.com/caricadeffa/ML_BotaniScan_C23-PS159) by: C23-PS159
 * [Fruisca](https://github.com/SvZero/Fruisca) by: C23-PR549
+* [Tanaya](https://github.com/Tanaya-id) by: C23-PC732
 * 
 ## 10. Emerging Intelligence Technologies and ethics
 Emerging technologies, particularly AI, are revolutionizing society but raise ethical concerns. Issues include accountability, bias, privacy, and surveillance. Elon Musk advocates for responsible AI development and calls for regulatory bodies. He also highlights potential risks of genetic engineering and brain-machine interfaces. Ethical guidelines are crucial to ensure these technologies benefit society.
