@@ -87,6 +87,7 @@ Indonesia's agriculture sector is vital, yet food accessibility and security rem
 * [BotaniScan](https://github.com/caricadeffa/ML_BotaniScan_C23-PS159) by: C23-PS159
 * [Farm Genius](https://github.com/Capstone-C23-PS094) by: C23-PS094
 * [Fruisca](https://github.com/SvZero/Fruisca) by: C23-PR549
+* [GiziGuru](https://github.com/C23-PS342-Capstone-Bangkit-2023/) by: C23-PS342
 * [NutriPal](https://github.com/Nutripal-Capstone) by: C23-PS243
 * [NutriPal](https://github.com/C23PR533) by: C23-PR533
 * [NutriPal](https://github.com/zrifqip/NutriPal-Capstone) by: C23-PC653
