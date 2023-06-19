@@ -53,6 +53,7 @@ Human healthcare and well-being are vital for a healthy and happy life. It encom
 * [AcneFy](https://github.com/ferdyferiandi17/C23-PS079-Repositoryy) by: C23-PS079
 * [AlloPet](https://github.com/antoniw21/halopet-md) by: C23-PR490
 * [CalorieSense](https://github.com/DwiBagiaSantosa/C23-PS117) by: C23-PS117
+* [ENVy](https://github.com/ykbintang/Envy-Bangkit2023) by: C23-PS057
 * [FashionSwap](https://github.com/wikananda/Bangkit-Project-C23-PC698) by: C23-PC698
 * [Healcy](https://github.com/C23-PS475/C23-PS475) by: C23-PS475
 * [MooD](https://github.com/M136DSX2331/MooD) by: C23-PC783
