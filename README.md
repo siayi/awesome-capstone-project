@@ -5,20 +5,22 @@ Here is presented a list Capstone Project (Github Repositories) at  Bangkit Acad
 I'm trying to group each project link in the default theme group in Bangkit 2023. This grouping can be sloppy/incorrect. Apart from grouping, other information presented may be wrong. So, please feel free to [submit issues](https://github.com/siayi/awesome-capstone-project/issues/new) if you find such an incorrect information, , want to add data, or anything else related to this list Awesome Capstone Project.
 
 - [Awesome Capstone Project | Bangkit 2023](#awesome-capstone-project--bangkit-2023)
-  - [1. Post-Pandemic \& Emergency Responses](#1-post-pandemic--emergency-responses)
+  - [1. Post-Pandemic and Emergency Responses](#1-post-pandemic-and-emergency-responses)
   - [2. Digital Government Transformation](#2-digital-government-transformation)
   - [3. Education, Learning, and Personal Development](#3-education-learning-and-personal-development)
   - [4. Tourism, Cultural, and Hospitality](#4-tourism-cultural-and-hospitality)
   - [5. Human Healthcare and Living Wellbeings](#5-human-healthcare-and-living-wellbeings)
   - [6. Sustainable Living](#6-sustainable-living)
-  - [7. Ocean \& Maritime Economy](#7-ocean--maritime-economy)
+  - [7. Ocean and Maritime Economy](#7-ocean-and-maritime-economy)
   - [8. Job, Talent, and Employment](#8-job-talent-and-employment)
   - [9. Food Accessibility, Agribusiness, and Food Security](#9-food-accessibility-agribusiness-and-food-security)
   - [10. Emerging Intelligence Technologies and ethics](#10-emerging-intelligence-technologies-and-ethics)
   - [11. Water, Forest, and Natural Resources](#11-water-forest-and-natural-resources)
   - [12. SME/UMKM Empowerment](#12-smeumkm-empowerment)
+- [Contributing](#contributing)
 
-## 1. Post-Pandemic & Emergency Responses
+---
+## 1. Post-Pandemic and Emergency Responses
 After COVID-19 and conflicts, preparing for emergencies like disasters and diseases is crucial. Plans are needed to ensure safety. Digital tech can enhance response efforts, but not all solutions work due to infrastructure constraints. This topic explores how digitalization empowers communities in emergencies and post-pandemic recovery. Stakeholders must also prepare for worst-case scenarios like war and terrorism. Technology aids in detecting patterns, early warnings, social media monitoring, and disaster mapping, minimizing impact and casualties.
 
 *Keywords*: Digital Service for Emergency, Disaster Mitigation, Post-Pandemic Recovery, Minimizing War Impact, Refugees Management System, Communication System Management.
@@ -34,6 +36,7 @@ Digital Government Transformation is a priority for the Indonesian government, a
 Enhancing literacy, numeracy, character building, inclusivity, diversity, and women and child empowerment can boost Indonesia's education system, addressing low PISA rankings. A comprehensive education is crucial for a brighter future. Technology integration is vital too, but teachers remain essential. Students' projects should aim to develop innovative, inclusive learning tools benefiting all stakeholders, including students, teachers, parents, and children with special needs.
 
 *Keywords*: Literacy & Numeracy skills, Character Building/Human Development, Inclusivity & Diversity, Women & Child Empowerment, PISA Score.
+
 * [MBTI EDU](https://github.com/mbti-edu) by: C23-PS211
 * [Reach You](https://github.com/Navelia/C23PS039-Product-Based-Capstone) by: C23-PS039 
 * [Tutor Deck](https://github.com/AchmadZahrulAZ/C23-PS148-Capstone-Project) by: C23-PS148
@@ -69,7 +72,7 @@ Sustainability ensures meeting present needs without compromising future generat
 * [Tech Waste](https://github.com/Techwaste) by: C23-PS324
 * [TrashLine](https://github.com/JokerXDexter/Capstone_Bangkit2023_TrashLine) by: C23-PS134
 * 
-## 7. Ocean & Maritime Economy
+## 7. Ocean and Maritime Economy
 The ocean and maritime economy encompass industries like fishing, aquaculture, shipping, renewable energy, and tourism. With abundant resources, Indonesia's ocean and maritime sector is crucial for economic growth. Sustainable management is vital to address challenges such as overfishing, pollution, and unsustainable tourism, ensuring long-term health and promoting a greener future.
 
 *Keywords*: Ocean potentials, Marine life, Fishing, Aquaculture, Ocean conservation, Marine transportation, Mangrove.
@@ -122,3 +125,12 @@ SMEs are vital to Indonesia's economy, contributing 61% to GDP and employing 97%
 * [Obeng](https://github.com/nabhanyuzqi1/Bangkit-Capstone-C23-PS321) by: C23-PS321
 * [PemasoKIta](https://github.com/kalam-md/pemasokita) by: C23-PS018
 * [Wismata](https://github.com/Dikarahmanm/Wismata-C23-PS297) by: C23-PS297
+
+---
+# Contributing
+
+Your contributions are always welcome! 
+
+- - -
+
+If you have any question about this list, do not hesitate to contact me [@siayi](https://twitter.com/siayi) on Twitter or open an issue on GitHub.
