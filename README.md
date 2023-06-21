@@ -61,7 +61,7 @@ Human healthcare and well-being are vital for a healthy and happy life. It encom
 * [Healcy](https://github.com/C23-PS475/C23-PS475) by: C23-PS475
 * [MooD](https://github.com/M136DSX2331/MooD) by: C23-PC783
 * [Peri Gigi](https://github.com/Nusantara-Team-bangkit-Capstone) by: C23-PS304
-* 
+* [RejuviFy](https://github.com/lahiardhan/RejuviFy) by: C23-PS439
 ## 6. Sustainable Living
 Sustainability ensures meeting present needs without compromising future generations. It involves renewable energy, circular economy, and sustainable ecosystems. Transitioning to renewables reduces emissions and dependence on finite resources. Circular economy minimizes waste, conserves resources, and fosters sustainability. Achieving a low-carbon economy requires global collaboration and sustainable practices.
 
