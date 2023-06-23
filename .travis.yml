@@ -13,6 +13,6 @@ deploy:
   local-dir: site
   skip-cleanup: true
   keep-history: true
-  github-token: $GITHUB_TOKEN
+  github-token: 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
   on:
     branch: main
