@@ -13,6 +13,6 @@ deploy:
   local-dir: site
   skip-cleanup: true
   keep-history: true
-  github-token: $RAHASIA
+  github-token: $GITHUB_TOKEN
   on:
     branch: main
