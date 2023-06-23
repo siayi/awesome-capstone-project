@@ -3,7 +3,7 @@ v: 0
 micros:
   - name: Awesome-Capstone-Project-2023
     src: ./
-    engine: python3.9
-    primary: true
-    run: mkdocs serve
+    engine: static
+    serve: site/
+    
     
