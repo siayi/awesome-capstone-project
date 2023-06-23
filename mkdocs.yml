@@ -1,5 +1,5 @@
 site_name: Awesome Capstone Project
-site_url: https://example.com/
+site_url: https://awesomecapstone-1-a8221298.deta.app/
 site_description: A curated list of awesome Capstone Project (Github Repositories) at  Bangkit Academy 2023
 site_author: Ayi Sumarna
 repo_name: siayi/awesome-capstone-project
@@ -36,4 +36,4 @@ extra:
 extra_css:
     - css/extra.css
 nav:
-  - "Life is short, you need Python.": "index.md"
+  - "verba volant, scripta manent": "index.md"

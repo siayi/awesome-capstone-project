@@ -1,0 +1,18 @@
+language: python
+
+python:
+  - "3.11"
+
+script:
+  - python sortir.py
+  - cp README.md docs/index.md
+  - mkdocs build
+
+deploy:
+  provider: pages
+  local-dir: site
+  skip-cleanup: true
+  keep-history: true
+  github-token: $GITHUB_TOKEN
+  on:
+    branch: main
