@@ -1,0 +1,9 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: Awesome-Capstone-Project-2023
+    src: ./
+    engine: python3.9
+    primary: true
+    run: mkdocs serve
+    

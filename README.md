@@ -56,7 +56,6 @@ Human healthcare and well-being are vital for a healthy and happy life. It encom
 * [AcneFy](https://github.com/ferdyferiandi17/C23-PS079-Repositoryy) by: C23-PS079
 * [AlloPet](https://github.com/antoniw21/halopet-md) by: C23-PR490
 * [CalorieSense](https://github.com/DwiBagiaSantosa/C23-PS117) by: C23-PS117
-* [ENVy](https://github.com/ykbintang/Envy-Bangkit2023) by: C23-PS057
 * [FashionSwap](https://github.com/wikananda/Bangkit-Project-C23-PC698) by: C23-PC698
 * [Healcy](https://github.com/C23-PS475/C23-PS475) by: C23-PS475
 * [MooD](https://github.com/M136DSX2331/MooD) by: C23-PC783
@@ -67,8 +66,6 @@ Sustainability ensures meeting present needs without compromising future generat
 
 *Keywords*: Renewable Energy, Circular Economy, Sustainable Ecosystem, Electric Vehicle, Low-carbon Economy, greenhouse gases, Carbon Neutrality.
 
-* [Aksi Hijau](https://github.com/Aksi-Hijau) by: C23-PS329
-* [Green Advisor](https://github.com/green-advisor) by: C23-PS112
 * [Tech Waste](https://github.com/Techwaste) by: C23-PS324
 * [TrashLine](https://github.com/JokerXDexter/Capstone_Bangkit2023_TrashLine) by: C23-PS134
 * 
@@ -78,7 +75,6 @@ The ocean and maritime economy encompass industries like fishing, aquaculture, s
 *Keywords*: Ocean potentials, Marine life, Fishing, Aquaculture, Ocean conservation, Marine transportation, Mangrove.
 
 * [iFiCam](https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit) by: C23-PS113 
-* [SeaSee GLOBALE](https://github.com/l1nl1n29/C23-PS067) by: C23-PS067
 * 
 ## 8. Job, Talent, and Employment
 The job market is evolving with remote work and the gig economy gaining popularity. Challenges include communication, inconsistent income, and worker rights. Hybrid work models combine remote and in-person work, while automation tools streamline hiring. Employer reviews and employee engagement play a significant role in attracting and retaining talent.
@@ -114,8 +110,11 @@ Indonesia faces challenges in preserving its abundant natural resources due to d
 
 *Keywords*: Conservation, Biodiversity, Climate change, Deforestation, Environmental policy, Habitat destruction, Pollution, Wildlife management, Land use planning, Ecological restoration.
 
+* [Aksi Hijau](https://github.com/Aksi-Hijau) by: C23-PS329
+* [ENVy](https://github.com/ykbintang/Envy-Bangkit2023) by: C23-PS057
+* [Green Advisor](https://github.com/green-advisor) by: C23-PS112
 * [Ornaman](https://github.com/ornaman-dev) by: C23-PS369
-* 
+* [SeaSee GLOBALE](https://github.com/l1nl1n29/C23-PS067) by: C23-PS067
 ## 12. SME/UMKM Empowerment
 SMEs are vital to Indonesia's economy, contributing 61% to GDP and employing 97% of the workforce. The government has implemented initiatives to empower SMEs, including policies, financing programs, and private sector support. Organizations like KADIN provide training and access to financing, while platforms like Tokopedia expand market reach. COVID-19 prompted additional programs for SMEs' resilience, emphasizing their importance and ongoing efforts for growth and support.
 
