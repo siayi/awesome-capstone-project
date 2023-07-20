@@ -6,6 +6,9 @@ I'm trying to group each project link in the default theme group in Bangkit 2023
 
 - [Awesome Capstone Project | Bangkit 2023](#awesome-capstone-project--bangkit-2023)
   - [1. Post-Pandemic and Emergency Responses](#1-post-pandemic-and-emergency-responses)
+  - [10. Emerging Intelligence Technologies and ethics](#10-emerging-intelligence-technologies-and-ethics)
+  - [11. Water, Forest, and Natural Resources](#11-water-forest-and-natural-resources)
+  - [12. SME/UMKM Empowerment](#12-smeumkm-empowerment)
   - [2. Digital Government Transformation](#2-digital-government-transformation)
   - [3. Education, Learning, and Personal Development](#3-education-learning-and-personal-development)
   - [4. Tourism, Cultural, and Hospitality](#4-tourism-cultural-and-hospitality)
@@ -14,9 +17,6 @@ I'm trying to group each project link in the default theme group in Bangkit 2023
   - [7. Ocean and Maritime Economy](#7-ocean-and-maritime-economy)
   - [8. Job, Talent, and Employment](#8-job-talent-and-employment)
   - [9. Food Accessibility, Agribusiness, and Food Security](#9-food-accessibility-agribusiness-and-food-security)
-  - [10. Emerging Intelligence Technologies and ethics](#10-emerging-intelligence-technologies-and-ethics)
-  - [11. Water, Forest, and Natural Resources](#11-water-forest-and-natural-resources)
-  - [12. SME/UMKM Empowerment](#12-smeumkm-empowerment)
 - [Contributing](#contributing)
 
 ---
@@ -93,11 +93,11 @@ Indonesia's agriculture sector is vital, yet food accessibility and security rem
 * [Farm Genius](https://github.com/Capstone-C23-PS094) by: C23-PS094
 * [Fruisca](https://github.com/SvZero/Fruisca) by: C23-PR549
 * [GiziGuru](https://github.com/C23-PS342-Capstone-Bangkit-2023/) by: C23-PS342
-* [NutriPal](https://github.com/Nutripal-Capstone) by: C23-PS243
 * [NutriPal](https://github.com/C23PR533) by: C23-PR533
+* [NutriPal](https://github.com/Nutripal-Capstone) by: C23-PS243
 * [NutriPal](https://github.com/zrifqip/NutriPal-Capstone) by: C23-PC653
 * [Tanaya](https://github.com/Tanaya-id) by: C23-PC732
-* 
+* [TerraTech](https://github.com/Naufaldo/Capstone-Terratech) by: C23-PC631
 ## 10. Emerging Intelligence Technologies and ethics
 Emerging technologies, particularly AI, are revolutionizing society but raise ethical concerns. Issues include accountability, bias, privacy, and surveillance. Elon Musk advocates for responsible AI development and calls for regulatory bodies. He also highlights potential risks of genetic engineering and brain-machine interfaces. Ethical guidelines are crucial to ensure these technologies benefit society.
 

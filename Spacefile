@@ -5,5 +5,3 @@ micros:
     src: ./
     engine: static
     serve: site/
-    
-    
